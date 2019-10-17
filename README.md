@@ -25,7 +25,7 @@ Resolve python package dependency.
 ```
 $ pipenv install
 ```
-
+$ git clone https://github.com/nicoleus/penta
 If you dislike pipenv...
 
 ```
